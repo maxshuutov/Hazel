@@ -5,6 +5,7 @@ namespace Hazel {
 
 	Application::Application()
 	{
+
 	}
 
 

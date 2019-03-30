@@ -4,7 +4,7 @@
 
 namespace Hazel {
 
-	class __declspec(dllexport)  Application
+	 class  HAZEL_API Application
 	{
 	public:
 		Application();
