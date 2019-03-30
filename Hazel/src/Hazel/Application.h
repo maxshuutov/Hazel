@@ -1,10 +1,12 @@
 #pragma once
 
 
+#include "Core.h"
+
 
 namespace Hazel {
 
-	 class  HAZEL_API Application
+    class  HZ_API Application
 	{
 	public:
 		Application();
@@ -12,6 +14,8 @@ namespace Hazel {
 
 		void Run();
 	};
+
+	Application* CreateApplication();
 
 
 

@@ -1,3 +1,2 @@
-﻿  Apllication.cpp
-c:\dev\hazel\sandbox\src\apllication.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  SandBox.vcxproj -> C:\dev\Hazel\$bin\&(Configuration)-&(Platform)\SandBox\SandBox.exe
+﻿  SandBoxApp.cpp
+LINK : fatal error LNK1561: entry point must be defined
